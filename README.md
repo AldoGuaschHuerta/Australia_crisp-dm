@@ -1,5 +1,7 @@
 # Australia_crisp-dm
 
+Hecho en Google Colab.
+
 Proyecto con metodología Crisp-DM. Se hace uso de los datos del Clima en Australia con presentación en Power BI.
 
 Supuesto:
